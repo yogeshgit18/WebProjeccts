@@ -1,2 +1,2 @@
-# WebProjeccts
+# WebProjects
 Web Deployment Projects
